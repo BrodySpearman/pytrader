@@ -1,1 +1,1 @@
-# pytrader
+Using Jupyter notebooks and Alpaca API, this program does data visualization for any stock currently trading over large exchanges. In the future it will show most useful technical indicators visually, along with automation using the Alpaca API to submit orders.
